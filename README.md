@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabriel-turinici
-- 👀 I’m interested in deep learning, quantum control, epidemiology and immunology, numerical analysis and numerical statistics
+- 👀 I’m interested in agentic AI, deep learning, AI, quantum control, epidemiology and immunology, numerical analysis and numerical statistics
 - 💞️ I’m looking to collaborate on any of those fields
 - 📫 How to reach me : go to my www page turinici.com
 
